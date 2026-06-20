@@ -23,11 +23,11 @@ This project includes a professional doctor profile, AI chatbot, Ollama-powered 
 ### AI Answer Demo
 ![AI Answer](screenshots/ai-answer.jpg)
 
-### Education & Experience
-![Education](screenshots/education.jpg)
-
 ### Doctor Profile
 ![Doctor Profile](screenshots/profile.jpg)
+
+### Education & Experience
+![Education](screenshots/education.jpg)
 
 ### Voice Recording Assistant
 ![AI Recording](screenshots/ai-recording.jpg)
