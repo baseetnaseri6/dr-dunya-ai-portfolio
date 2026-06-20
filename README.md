@@ -59,7 +59,7 @@ This project includes a professional doctor profile, AI chatbot, Ollama-powered 
 - Sidebar tooltips
 - Theme toggle
 - Responsive design
-- Black, gold, and cream medical style
+- Black, gold and cream medical style
 
 ---
 
