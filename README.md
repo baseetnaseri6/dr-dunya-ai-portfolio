@@ -1,5 +1,6 @@
 # Dr. Dunya Naseri — AI Medical Portfolio
 
+Empowering women in medicine with a modern AI-powered portfolio featuring professional profiles, healthcare storytelling, appointment assistance and intelligent chatbot interactions.
 A modern, AI-powered medical portfolio website for **Dr. Dunya Naseri**.  
 This project includes a professional doctor profile, AI chatbot, Ollama-powered local AI responses, voice recording assistant, gallery, appointment assistant, contact form, and medical-style UI design.
 
@@ -16,14 +17,17 @@ This project includes a professional doctor profile, AI chatbot, Ollama-powered 
 ### Dark mode 
 ![Doctor Profile](screenshots/dark-main.jpg)
 
-### Doctor Profile
-![Doctor Profile](screenshots/profile.jpg)
-
 ### AI Chat Interface
 ![AI Chat](screenshots/chat.jpg)
 
 ### AI Answer Demo
 ![AI Answer](screenshots/ai-answer.jpg)
+
+### Education & Experience
+![Education](screenshots/education.jpg)
+
+### Doctor Profile
+![Doctor Profile](screenshots/profile.jpg)
 
 ### Voice Recording Assistant
 ![AI Recording](screenshots/ai-recording.jpg)
@@ -34,8 +38,7 @@ This project includes a professional doctor profile, AI chatbot, Ollama-powered 
 ### Contact Form
 ![Contact](screenshots/contact.jpg)
 
-### Education & Experience
-![Education](screenshots/education.jpg)
+
 
 ---
 
