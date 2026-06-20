@@ -7,6 +7,15 @@ This project includes a professional doctor profile, AI chatbot, Ollama-powered 
 
 ## Preview
 
+### Loader 
+![Doctor Profile](screenshots/loader.jpg)
+
+### Light mode 
+![Doctor Profile](screenshots/light-main.jpg)
+
+### Dark mode 
+![Doctor Profile](screenshots/dark-main.jpg)
+
 ### Doctor Profile
 ![Doctor Profile](screenshots/profile.jpg)
 
