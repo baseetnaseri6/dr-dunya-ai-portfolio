@@ -102,7 +102,7 @@ baseet-ai-portfolio/
 git add .
 git commit -m "Initial release: AI-powered medical portfolio for women in healthcare"
 
-
+---
 
 
 # Author 
