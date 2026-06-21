@@ -101,3 +101,28 @@ baseet-ai-portfolio/
 └── .gitignore
 git add .
 git commit -m "Initial release: AI-powered medical portfolio for women in healthcare"
+
+
+# Author 
+
+Mohammad Baseet Naseri
+
+* Data Scientist
+* AI Engineer
+* Full-Stack Developer
+
+
+Portfolio
+https://naseriai.com
+
+LinkedIn
+https://linkedin.com/in/baseetnaseri6
+
+GitHub
+https://github.com/baseetnaseri6
+
+---
+
+# License 
+
+MIT License
